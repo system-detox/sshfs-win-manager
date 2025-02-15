@@ -28,7 +28,8 @@ Add your connections and enjoy!
 
 ## Features
 
-- Electron-based application. [Electron](https://github.com/electron/electron) is the same engine that powers [Visual Studio Code](https://github.com/microsoft/vscode), [Discord](https://discordapp.com/), [GitKraken](https://www.gitkraken.com/) and [many more](https://www.electronjs.org/apps).
+- A true native compiled application built with [Modern Delphi](https://www.embarcadero.com/products/delphi/starter), using the Modern Object Pascal programming language and the FireMonkey multi platform framework.
+That means no bloat, no external dependencies, no nodejs or a complete browser engine running in the background. It is fast to run and easy to compile and extend.
 
 - User-friendly and intuitive interface
 
